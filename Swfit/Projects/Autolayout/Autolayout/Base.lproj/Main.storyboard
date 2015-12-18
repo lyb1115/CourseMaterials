@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Autolayout" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="auto1.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="kLf-EY-u7L">
+                                <rect key="frame" x="73" y="85" width="494" height="154"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="auto1.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="WaL-kk-vqs">
+                                <rect key="frame" x="103" y="291" width="464" height="154"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.19425043559999999" green="0.48353688550000001" blue="0.82193876499999996" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="WaL-kk-vqs" firstAttribute="leading" secondItem="kLf-EY-u7L" secondAttribute="leading" constant="30" id="1TI-Cd-Ncf"/>
+                            <constraint firstItem="WaL-kk-vqs" firstAttribute="height" secondItem="kLf-EY-u7L" secondAttribute="height" id="40S-EA-MEm"/>
+                            <constraint firstItem="WaL-kk-vqs" firstAttribute="top" secondItem="kLf-EY-u7L" secondAttribute="bottom" constant="52" id="SVf-wX-KiQ"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="WaL-kk-vqs" secondAttribute="bottom" constant="155" id="aNl-ga-yWK"/>
+                            <constraint firstItem="kLf-EY-u7L" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="65" id="c5v-JZ-fS7"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="kLf-EY-u7L" secondAttribute="trailing" constant="13" id="h6q-fc-iA2"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="WaL-kk-vqs" secondAttribute="trailing" constant="13" id="qwY-x8-6zO"/>
+                            <constraint firstItem="kLf-EY-u7L" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="53" id="u5n-Jh-N9z"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="380" y="299"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="auto1.jpg" width="1000" height="1000"/>
+    </resources>
+</document>

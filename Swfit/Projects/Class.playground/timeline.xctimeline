@@ -2,5 +2,13 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+<<<<<<< HEAD
+=======
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=36&amp;CharacterRangeLoc=2692&amp;EndingColumnNumber=17&amp;EndingLineNumber=114&amp;StartingColumnNumber=1&amp;StartingLineNumber=114&amp;Timestamp=471517280.378082"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+>>>>>>> Jaykong/master
    </TimelineItems>
 </Timeline>
