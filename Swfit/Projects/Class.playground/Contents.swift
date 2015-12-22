@@ -30,7 +30,10 @@ class VideoMode {
 
 let someVideoMode = VideoMode()
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Jaykong/master
 
 print("The width of someResolution is \(someResolution.width)")
 // 输出 "The width of someResolution is 0"
@@ -123,4 +126,7 @@ class Calculator {
         return accumulator
     }
 }
+<<<<<<< HEAD
+>>>>>>> Jaykong/master
+=======
 >>>>>>> Jaykong/master

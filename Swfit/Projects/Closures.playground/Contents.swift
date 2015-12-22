@@ -21,14 +21,20 @@ names.sort(backwards)
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 names.sort({ (a:String, b:String) -> Bool in
    return a > b
 })
 =======
+=======
+>>>>>>> Jaykong/master
 names.sort(){ (a:String, b:String) -> Bool in
     return a > b
 }
 names.sort(>)
+<<<<<<< HEAD
+>>>>>>> Jaykong/master
+=======
 >>>>>>> Jaykong/master
 //函数类型作为参数
 func add(a:Int,b:Int) -> Int {
@@ -54,7 +60,10 @@ printAdd({ (a:Int,b: Int) -> Int in
 //func makeIncrementor(forIncrement amount: Int) -> () -> Int
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Jaykong/master
 
 var customersInLine = ["Chris", "Alex", "Ewa", "Barry", "Daniella"]
 print(customersInLine.count)
@@ -116,4 +125,7 @@ func makeIncrementor(forIncrement amount: Int) -> () -> Int {
 
 
 
+<<<<<<< HEAD
+>>>>>>> Jaykong/master
+=======
 >>>>>>> Jaykong/master

@@ -1,6 +1,9 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Jaykong/master
 enum Planet {
     case Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
 }
@@ -173,4 +176,7 @@ let sum = ArithmeticExpression.Addition(five, four)
 let product = ArithmeticExpression.Multiplication(sum, ArithmeticExpression.Number(2))
 print(evaluate(product))
 // 输出 "18"
+<<<<<<< HEAD
+>>>>>>> Jaykong/master
+=======
 >>>>>>> Jaykong/master
