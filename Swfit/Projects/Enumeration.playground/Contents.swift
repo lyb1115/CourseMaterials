@@ -1,7 +1,10 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Jaykong/master
 =======
 >>>>>>> Jaykong/master
 enum Planet {
@@ -177,6 +180,9 @@ let product = ArithmeticExpression.Multiplication(sum, ArithmeticExpression.Numb
 print(evaluate(product))
 // 输出 "18"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Jaykong/master
+=======
 >>>>>>> Jaykong/master
 =======
 >>>>>>> Jaykong/master

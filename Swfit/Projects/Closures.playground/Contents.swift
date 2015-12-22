@@ -22,10 +22,13 @@ names.sort(backwards)
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 names.sort({ (a:String, b:String) -> Bool in
    return a > b
 })
 =======
+=======
+>>>>>>> Jaykong/master
 =======
 >>>>>>> Jaykong/master
 names.sort(){ (a:String, b:String) -> Bool in
@@ -33,6 +36,9 @@ names.sort(){ (a:String, b:String) -> Bool in
 }
 names.sort(>)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Jaykong/master
+=======
 >>>>>>> Jaykong/master
 =======
 >>>>>>> Jaykong/master
@@ -61,7 +67,10 @@ printAdd({ (a:Int,b: Int) -> Int in
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Jaykong/master
 =======
 >>>>>>> Jaykong/master
 
@@ -126,6 +135,9 @@ func makeIncrementor(forIncrement amount: Int) -> () -> Int {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Jaykong/master
+=======
 >>>>>>> Jaykong/master
 =======
 >>>>>>> Jaykong/master
