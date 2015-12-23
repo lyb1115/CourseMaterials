@@ -2,7 +2,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Jaykong/master
 =======
 >>>>>>> Jaykong/master
 =======
@@ -181,6 +184,9 @@ print(evaluate(product))
 // 输出 "18"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Jaykong/master
+=======
 >>>>>>> Jaykong/master
 =======
 >>>>>>> Jaykong/master

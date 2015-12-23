@@ -32,7 +32,10 @@ let someVideoMode = VideoMode()
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> Jaykong/master
 =======
 >>>>>>> Jaykong/master
 =======
@@ -131,6 +134,9 @@ class Calculator {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Jaykong/master
+=======
 >>>>>>> Jaykong/master
 =======
 >>>>>>> Jaykong/master

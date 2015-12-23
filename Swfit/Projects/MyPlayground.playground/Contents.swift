@@ -1,6 +1,7 @@
 //: Playground - noun: a place where people can play
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 import UIKit
 
 var str = "Hello, playground"
@@ -173,6 +174,8 @@ for index in gettingmetoyou.characters.indices {
 
 
 =======
+=======
+>>>>>>> Jaykong/master
 
 var sum = 1
 for index in 1...7 {
@@ -187,4 +190,7 @@ for index in 1...100 {
     sum2 += index
 }
 sum2
+<<<<<<< HEAD
+>>>>>>> Jaykong/master
+=======
 >>>>>>> Jaykong/master
